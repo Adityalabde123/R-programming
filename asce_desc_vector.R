@@ -1,0 +1,7 @@
+a<-c(10,7,29,30,50,15)
+print("orignal vector")
+print(a)
+print("sorted vector")
+print(sort(a))
+print("sorted desc order")
+print(sort(a,decreasing=TRUE))
